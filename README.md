@@ -27,7 +27,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 ## Skills and Activities <a name="activities"></a> :pencil2:
 
-#### Core Competencies and Skills:
+#### Core Competencies and Skills <a name="Core Competencies and Skills"></a> :pencil2:
 - Communication, Perseverance, Time Management, Problem Solving, Analytical Thinker, Team-building, and result-oriented behavior.
 
 #### Technical Skills <a name="Technical Skills"></a> :pencil2:
