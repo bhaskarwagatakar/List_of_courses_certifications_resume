@@ -5,8 +5,9 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 ## Index :pushpin:
 - [Academic Education](#education)
 - [Certification](#certification)
-- [Languages](#languages)
 - [Skills and Activities](#activities)
+- [Languages](#languages)
+- [Interests](#interests)
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
@@ -17,13 +18,6 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 
 - Attended Advanced Python classes for software development and data analysis.
 - I haven't done any certification till now.
-
-
-## Languages <a name="languages"></a> :round_pushpin:
-
-- **English:** Professional working proficiency.
-- **English:** Fluent.
-- **Marathi:** Native Speaker.
 
 ## Skills and Activities <a name="activities"></a> :pencil2:
 
@@ -53,7 +47,13 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - LSM-R, JCP, Siteforge, Putty, Secure CRT, SBTS Element Manager, U2000/U2020, MYCOM and BI OSS.
 - IDLE, Jupyter Notebook, Jupyter Lab, Sublime-Text, Notepad++, PyCharm.
 
-## Interests <a name="Interests"></a> :pencil2:
+## Languages <a name="languages"></a> :round_pushpin:
+
+- **English:** Professional working proficiency.
+- **English:** Fluent.
+- **Marathi:** Native Speaker.
+- 
+## Interests <a name="interests"></a> :pencil2:
 - Networking, Meditation, YouTube and Travelling.
 
 
