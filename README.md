@@ -6,7 +6,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - [Academic Education](#education)
 - [Certification](#certification)
 - [Languages](#languages)
-- [Skills & Activities](#Skills & Activities)
+- [Skills](#Skills & Activities)
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
