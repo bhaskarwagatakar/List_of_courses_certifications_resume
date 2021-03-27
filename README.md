@@ -6,7 +6,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - [Academic Education](#education)
 - [Certification](#certification)
 - [Languages](#languages)
-- [Skills](#Skills & Activities)
+- [Skills and Activities](#activities)
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
@@ -25,7 +25,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - **English:** Fluent.
 - **Marathi:** Native Speaker.
 
-## Skills and Activities <a name="Skills & Activities"></a> :pencil2:
+## Skills and Activities <a name="activities"></a> :pencil2:
 
 #### Core Competencies and Skills:
 - Communication, Perseverance, Time Management, Problem Solving, Analytical Thinker, Team-building, and result-oriented behavior.
