@@ -6,7 +6,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - [Academic Education](#education)
 - [Certification](#certification)
 - [Languages](#languages)
-- [Courses](#courses)
+- [Skills & Activities](#Skills & Activities)
 
 ## Academic Education <a name="education"></a> :mortar_board:
 
@@ -19,7 +19,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - I haven't done any certification till now.
 
 
-## Languages <a name="language"></a> :round_pushpin:
+## Languages <a name="languages"></a> :round_pushpin:
 
 - **English:** Professional working proficiency.
 - **English:** Fluent.
