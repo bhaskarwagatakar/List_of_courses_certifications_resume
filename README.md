@@ -52,7 +52,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - **English:** Professional working proficiency.
 - **English:** Fluent.
 - **Marathi:** Native Speaker.
-- 
+
 ## Interests <a name="interests"></a> :pencil2:
 - Networking, Meditation, YouTube and Travelling.
 
