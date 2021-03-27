@@ -30,7 +30,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 #### Core Competencies and Skills:
 - Communication, Perseverance, Time Management, Problem Solving, Analytical Thinker, Team-building, and result-oriented behavior.
 
-#### Technical Skills <a name=Technical Skills"></a> :pencil2:
+#### Technical Skills <a name="Technical Skills"></a> :pencil2:
 
 #### •	Programming Languages: 
 -Python, SQL.
@@ -47,7 +47,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 -HTML5, CSS3
 
 
-#### Tools <a name=Tools"></a> :pencil2:
+#### Tools <a name="Tools"></a> :pencil2:
 - Beautiful Soup, lxml.
 - Pandas 
 - LSM-R, JCP, Siteforge, Putty, Secure CRT, SBTS Element Manager, U2000/U2020, MYCOM and BI OSS.
