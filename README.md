@@ -50,7 +50,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 ## Languages <a name="languages"></a> :round_pushpin:
 
 - **English:** Professional working proficiency.
-- **English:** Fluent.
+- **Hindi:** Fluent.
 - **Marathi:** Native Speaker.
 
 ## Interests <a name="interests"></a> :pencil2:
